@@ -25,7 +25,7 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-##Tech Stack
+## Tech Stack
 SIEM: Splunk. Elastic. Sentinel
 Languages: SQL. Bash. Linux
 Tools: Wireshark. MISP
