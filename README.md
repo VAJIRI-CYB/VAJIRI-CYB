@@ -61,10 +61,11 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 
 | <a href="https://www.credly.com/badges/c8a4e9b3-32be-4d20-9386-70f24196dd52/"><img src="https://images.credly.com/size/680x680/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management badge image. Learning. Intermediate level. Issued by Cisco" width="90" height="90"/></a> 
 
-| <a href="https://www.credly.com/badges/e0898040-5ea5-45a9-b3b2-e03ffac0b932/"><img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC) badge image. Certification. Issued by ISC2" width="90" height="90">
+| <a href="https://www.credly.com/badges/e0898040-5ea5-45a9-b3b2-e03ffac0b932/"><img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC) badge image. Certification. Issued by ISC2" width="90" height="90"></a> 
 
-<a href= "https://www.credly.com/badges/8ed8b7e5-4e10-42d8-9b0f-45d98a9a9aa8/"><img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2 badge image. Learning. Issued by Coursera" width="90" height="90">
+| <a href= "https://www.credly.com/badges/8ed8b7e5-4e10-42d8-9b0f-45d98a9a9aa8/"><img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2 badge image. Learning. Issued by Coursera" width="90" height="90"></a> 
 
+| <a href="https://www.credly.com/badges/01ef2bdf-1046-4c65-be70-6409bffdf2d5/"><img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce Certification badge image. Issued by CompTIA" width="90" height="90"></a> 
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
