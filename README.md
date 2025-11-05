@@ -1,4 +1,4 @@
-# Hello, I'm Victor
+# Hello, I'm Vic
 <a href="https://www.linkedin.com/in/victor-a-0b668862/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Security Operations Center (SOC) Analyst , passionate about defending systems, analyzing threats and improving detection and response capabilities. My focus is on incident analysis , SIEM monitoring and threat hunting , turning data into actionable security insights.
