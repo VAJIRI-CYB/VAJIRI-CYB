@@ -67,6 +67,8 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 
 | <a href="https://www.credly.com/badges/01ef2bdf-1046-4c65-be70-6409bffdf2d5/"><img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce Certification badge image. Issued by CompTIA" width="90" height="90"></a> 
 
+| <a href="https://www.scrum-institute.org/badges/11568912759423/"><img src="https://www.scrum-institute.org/badges/SMAC.png" alt="Scrum Master Accredited Certification™" width="90" height="90"></a> 
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
