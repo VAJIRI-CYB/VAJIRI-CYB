@@ -54,11 +54,7 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.credly.com/badges/9c78ecb3-342c-4c10-b787-3904d3280cdb/"><img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CompTIA CySA+ ce Certification badge image. Issued by CompTIA" width="100" height="100"/></a> 
-    
-<a href="https://www.credly.com/badges/eee91cd4-f176-4027-9f28-6118ecd6f2e3/"><img src="https://images.credly.com/size/680x680/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="CompTIA Security Analytics Professional – CSAP Stackable Certification badge image. Issued by CompTIA" width="100" height="100"/></a>
-
-<a href="https://www.credly.com/badges/c8a4e9b3-32be-4d20-9386-70f24196dd52/"><img src="https://images.credly.com/size/680x680/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management badge image. Learning. Intermediate level. Issued by Cisco" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/9c78ecb3-342c-4c10-b787-3904d3280cdb/"><img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CompTIA CySA+ ce Certification badge image. Issued by CompTIA" width="100" height="100"/></a> | <a href="https://www.credly.com/badges/eee91cd4-f176-4027-9f28-6118ecd6f2e3/"><img src="https://images.credly.com/size/680x680/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="CompTIA Security Analytics Professional – CSAP Stackable Certification badge image. Issued by CompTIA" width="100" height="100"/></a> | <a href="https://www.credly.com/badges/c8a4e9b3-32be-4d20-9386-70f24196dd52/"><img src="https://images.credly.com/size/680x680/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management badge image. Learning. Intermediate level. Issued by Cisco" width="100" height="100"/></a>
 
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
