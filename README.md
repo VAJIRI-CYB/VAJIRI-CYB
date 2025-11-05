@@ -4,7 +4,8 @@
 I am a Security Operations Center (SOC) Analyst , passionate about defending systems, analyzing threats and improving detection and response capabilities. My focus is on incident analysis , SIEM monitoring and threat hunting , turning data into actionable security insights.
 
 ## What I Do
-¯ Monitor and analyze alerts using tools like Splunk , Elastic and Microsoft Sentinel
+
+- Monitor and analyze alerts using tools like Splunk , Elastic and Microsoft Sentinel
 - Investigate and respond to security incidents, ensuring rapid containment and remediation
 - Develop and fine tune SIEM rules , dashboards and automation scripts
 - Perform threat intelligence correlation and log analysis to identify malicious patterns
