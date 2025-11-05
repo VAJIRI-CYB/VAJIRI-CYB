@@ -54,7 +54,7 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://www.credly.com/badges/9c78ecb3-342c-4c10-b787-3904d3280cdb/https://www.credly.com/badges/9c78ecb3-342c-4c10-b787-3904d3280cdb/linked_in_profile&style=for-the-badge&logo=CompTIACySA&logoColor=white" />
+<a href="https://www.credly.com/badges/9c78ecb3-342c-4c10-b787-3904d3280cdb/"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA CySA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
