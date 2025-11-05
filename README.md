@@ -12,7 +12,6 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,8 +22,6 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ## Tech Stack
 | STACK                                         |
