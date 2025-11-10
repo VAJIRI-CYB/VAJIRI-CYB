@@ -13,14 +13,10 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                           | 
+|-------------------------------------------------|
+| SIEM Implementation and Log Analysis            |
+| Network Traffic Monitoring and Attack Detection | 
 
 
 ## Tech Stack
@@ -31,23 +27,7 @@ I am a Security Operations Center (SOC) Analyst , passionate about defending sys
 | Tools: Wireshark. MISP                        |
 | Platforms: Linux. Windows Server. Azure       |
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
- 
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   
-</div>
 
 ## Certifications
 <div>
